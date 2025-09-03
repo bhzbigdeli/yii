@@ -1,5 +1,8 @@
 {
+  "app": "yii",
+  "port": 80,
   "build": {
-     "location": "germany"
-  }
+    "location": "iran"
+  },
+  "disks": []
 }
